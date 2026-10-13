@@ -1,6 +1,18 @@
 ---
 name: telegram-standalone-bot
+description: "Standalone Telegram Bot on Termux (raw Bot API)"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: telegram-standalone-bot
 description: Standalone Python Telegram bot on Termux with raw Bot API.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Standalone Telegram Bot on Termux (raw Bot API)
