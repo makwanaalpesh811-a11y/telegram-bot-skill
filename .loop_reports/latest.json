@@ -1,0 +1,9 @@
+{
+  "run_at": "2026-10-24 03:43 UTC",
+  "files_scanned": 2,
+  "files_fixed": 0,
+  "issues_count": 1,
+  "top_issues": [
+    "./README.md: broken link /LICENSE"
+  ]
+}
